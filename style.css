@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script|Source+Sans+Pro');
+/*rgb150 160 163)    background-color: rgb(240, 175, 10);
+  color: white;*/
+#container{
+  margin: 0 auto;
+  max-width: 960px;
+  min-width: 320px;
+}
+em{
+  float: right;
+}
+
+h1{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(0, 37, 46);
+}
+
+h2{
+  font-family:'Kaushan Script', cursive;
+  color:rgb(95,16,127);
+  text-shadow: 2px 2px 20px rgb(240, 175, 10);
+}
+section a{
+  text-decoration: none;
+  color: rgb(37, 118, 190);
+}
+
+nav{
+  border-top: solid 3px rgb(150,160,163);
+  border-bottom: solid 2px rgb(150,160,163);
+  font-size: 22px;
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 6px 0px;
+}
+nav a{
+  color:rgb(37, 118, 190);
+  text-decoration: none;
+}
+nav ul {
+  margin: 5px;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 100px;
+}
+
+nav a:hover {
+  color: rgb(255,67,108);
+}
+
+nav a:visited {
+  color: rgb(255,175,05);
+}
+main{
+  font-family: arial,sans-serif;
+  color: black;
+}
+#contact {
+  border-bottom: solid 2px rgb(150,160,163);
+}
+
+#working{
+    border-top: solid 2px rgb(150,160,163);
+    border-bottom: solid 2px rgb(150,160,163);
+}
+#um2{
+  margin-bottom: 40px;
+}
+#um1{
+  margin-bottom: 40px;
+}
+#skills li{
+  margin-bottom: 10px;
+}
+#working li{
+  margin-bottom: 10px;
+}
+#skills ul{
+  margin-bottom: 2px;
+}
