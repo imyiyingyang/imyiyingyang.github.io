@@ -174,8 +174,9 @@ margin-bottom: 2%;
   font-family: Arial,sans-serif;
 }
 
-#essay1 img{
-  margin-top: 10px;
+#article img{
+height: auto;
+width: auto;
 }
 
 .demo-gallery{
