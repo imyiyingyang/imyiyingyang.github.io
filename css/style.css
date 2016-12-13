@@ -31,6 +31,10 @@
   color: rgb(255,67,108);
 }
 
+.homenav a:visited {
+  color: rgb(0, 173, 233);
+}
+
 
 body{
 background-image: url(../img/sky.jpg);
