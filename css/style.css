@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Satisfy');
+
+.homenav ul {
+  margin: 8px;
+  list-style-type: none;
+  background-color: black;
+  opacity: 0.7;
+}
+
+.homenav li {
+  padding: 5px 0;
+  display: inline-block;
+  text-align: center;
+  margin-right:100px;
+  margin-left: 100px;
+}
+
+.homenav{
+  font-size: 22px;
+  font-family: 'Permanent Marker', cursive;
+  padding:0px;
+  color:white;
+}
+
+.homenav a{
+  color:white;
+  text-decoration: none;
+}
+
+.homenav a:hover {
+  color: rgb(255,67,108);
+}
+
+
+body{
+background-image: url(../img/sky.jpg);
+}
+
+.me p{
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+}
+.me img{
+  width: 200px;
+  length: 200px;
+  border-radius: 20%;
+  margin-top: 1%;
+}
+
+#icon{
+  margin: 1%;
+  list-style-type: none;
+  padding: 1.5%;
+  }
+
+#icon li {
+  display: inline-block;
+  margin-left: 280px;
+  }
+#icon a{
+  color: white;
+}
+#icon a:hover{
+  color:rgb(255,67,108);
+}
+
+.resume em{
+  float: right;
+}
+
+.resume h1{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-family: 'Satisfy', cursive;
+}
+
+.resume h2{
+  color:white;
+  text-shadow: 2px 2px 20px rgb(240, 175, 10);
+  padding-top: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+.resume a{
+  color: white;
+}
+
+.resume a:hover{
+  color: rgb(240, 175, 10);
+}
+
+.resume{
+  font-family: arial,sans-serif;
+  color: white;
+  width: auto;
+  height:auto;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+.resume li{
+  margin-left: -3%;
+}
+
+#um2{
+  margin-bottom: 40px;
+}
+#um1{
+  margin-bottom: 40px;
+}
+#skills li{
+  margin-bottom: 10px;
+}
+#working li{
+  margin-bottom: 10px;
+}
+#skills ul{
+  margin:5px;
+}
+.return a{
+  color: white;
+  text-shadow: 2px 2px 20px rgb(254, 79, 0);
+}
+
+#essay1,#essay2,#essay3{
+  color: white;
+}
+#essay1,
+#essay3 {
+float: left;
+width: 30%;
+height: 1400px;
+padding-left:1%;
+padding-right: 1%;
+margin-bottom: 2%;
+background-color: black;opacity: 0.8;
+}
+
+#essay3{
+float: right;
+}
+
+#essay2{
+background-color: black;opacity: 0.8;
+height: 1400px;
+width: 30%;
+float: left;
+margin-left: 2%;
+padding-left:1%;
+padding-right: 1%;
+margin-bottom: 2%;
+}
+
+.writing{
+  padding-top: 1%;
+  color: white;
+  font-size: 22px;
+  text-align: center;
+}
+.writing a{
+  color: rgb(254, 82, 1);
+}
+#article{
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+#essay1 img{
+  margin-top: 10px;
+}
+
+.demo-gallery{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+}
+
+.practicum{
+  color: white;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 2%;
+}
+
+#intro{
+  color: white;
+  font-size: 18px;
+  margin-left: 18%;
+  margin-right: 18%;
+  padding-top: 15%;
+  text-align: justify;
+  font-family: arial,sans-serif;
+}
+#intro h3{
+  text-align: center;
+}
+#intro li{
+  padding-top: 1%;
+  margin-left: -3%;
+}

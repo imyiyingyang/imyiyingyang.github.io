@@ -1,0 +1,31 @@
+*{
+  background: transparent;
+  color: black;
+  font-size: 14pt;
+  font-family: serif;
+}
+
+.homenav{
+  display: none;
+}
+
+.return{
+  display: none;
+}
+h1{
+  font-size: 26pt;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2{
+  text-decoration: underline;
+  font-size: 18pt;
+}
+
+.resume {
+  margin: 0.5in;
+}
